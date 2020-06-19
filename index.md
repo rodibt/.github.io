@@ -7,3 +7,6 @@ Ich besuche den Git-Kurs des HPI. Dies ist meine Kurs-Webseite, mit der meine Gi
 * Computer
 * Handwerken
 * Motorrad
+
+As Grace Hopper said
+> I've always been more interested in the future than in the past
